@@ -1,0 +1,29 @@
+img.logo{
+	margin-top:170px;
+}
+input#kutucuk{
+	width: 500px;
+	height: 30px;
+	padding-left: 5px ;
+	font-size: 15px;
+	color:black;
+	border-radius: 5px;
+	margin-bottom: 15px ;
+	border:1px solid #ddd;
+}
+button.btn{
+	height:30px;
+	border:1px solid #ddd;
+	background:white;
+}
+#alan{
+	background-color:gray;
+	text-align:center;
+	padding-top:10px;
+	padding-bottom:10px;
+	margin-top:165px;
+}
+body{
+	margin:0px;
+
+}
